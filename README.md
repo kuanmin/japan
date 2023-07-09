@@ -78,7 +78,12 @@
 **橫濱一日券 (横浜1DAYきっぷ)**
 -------
    - [連結-1-官網](https://www.keikyu.co.jp/visit/otoku/otoku_yokohama.html)
-   - 
+   - 從京急任何一站可往返橫濱一次(我們會從「品川」撘)、加上
+   - 無限搭乘
+     - 港未來線、
+     - 紅鞋觀光巴士、
+     - 橫濱至上大岡之間的京急電車、
+     - 橫濱市區公車
    - <p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/yokohama_one_day.png">
 </p>
