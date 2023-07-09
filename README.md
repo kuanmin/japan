@@ -24,9 +24,12 @@
  - 27日星期五 - 輕井澤-輕井澤火車站
    - 飯店名稱：輕井澤王子大飯店西館 (軽井沢プリンスホテル ウエスト)
    - 地圖位置：[連結](https://goo.gl/maps/y5kig9hWXgym63DF7)
- - 28日星期六 - (中)輕井澤站附近
-   - 飯店名稱：
-   - 地圖位置：[連結](xxx)
+ - 28日星期六 - 輕井澤-輕井澤火車站
+   - 飯店名稱：輕井澤王子大飯店西館-小木屋 (軽井沢プリンスホテル ウエスト)
+   - 地圖位置：[連結](https://goo.gl/maps/oEUjxE8aM92BoQNm7)
+  <p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/prince_%20cottage.png">
+</p>
 
 **票券
 
