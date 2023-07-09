@@ -6,35 +6,42 @@
  - 21日星期六 - 千葉縣-銚子市-犬吠埼
    - 飯店名稱：銚子犬吠埼的溫泉旅館—太陽之里 (Hotel & Spa Tsukimi)
    - 地圖位置：[連結](https://goo.gl/maps/y8pCgF1AGgbhUnpB7)
-   - 介紹：[連結](xxx)
+   - 介紹-1：[連結](https://www.inubou.jp/)
+   - 介紹-2：[連結](https://yukablog.com/japan-chiba-choshi-accommodation-hotel/)
  - 22日星期日 - 潢兵-港區未來站
    - 飯店名稱：橫濱洲際渡假飯店
    - 地圖位置：[連結](https://goo.gl/maps/iTogSqvUmexrWHhZ9)
-   - 介紹：[連結](xxx)
+   - 介紹-1：[連結](http://eggie.tw/blog/post/224341727)
+   - 介紹-2：[連結](https://openchiang1113.pixnet.net/blog/post/115314922)
+   - 介紹-3：[連結](https://www.the-frequent-traveler.com.tw/%E9%AB%94%E9%A9%97%E4%B8%80%E6%87%89%E4%BF%B1%E5%85%A8%E6%A9%9F%E8%83%BD%E5%AE%8C%E5%96%84%E7%9A%84ihg%E6%A9%AB%E6%BF%B1%E6%B4%B2%E9%9A%9B%E9%A3%AF%E5%BA%97intercontinental-yokohama%E4%BD%8F/)
  - 23日星期一 - 東京-池袋
    - 飯店名稱：池袋溫泉多美迎飯店 (Dormy Inn Ikebukuro Natural Hot Spring)
    - 地圖位置：[連結](https://goo.gl/maps/4W72dKvNW5Kpuad69)
-   - 介紹：[連結](xxx)
+   - 介紹-1：[連結](https://www.youtube.com/watch?v=36p0m_X1trM)
+   - 介紹-2：[連結](https://www.youtube.com/watch?v=jx1UD8E0sPQ)
  - 24日星期二 - 日光-日光車站
    - 飯店名稱：日光車站旅館二號館 (日光ステーションホテルⅡ番館)
    - 地圖位置：[連結]([xxx](https://goo.gl/maps/zd7VEo4AzvFs1pqb7))
-   - 介紹：[連結](xxx)
+   - 介紹：[連結](https://www.japan-walker.net/tw/blogger-notes/1733)
  - 25日星期三 - 日光-鬼怒川
    - 飯店名稱：Asaya飯店
    - 地圖位置：[連結](https://goo.gl/maps/B4sqVbP2AecJ6y886)
-   - 介紹：[連結](xxx)
+   - 介紹-1：[連結](https://tw.wamazing.com/media/article/a-998/)
+   - 介紹-2：[連結](https://www.gltjp.com/zh-hant/directory/item/12264/)
  - 26日星期四 - 日光-中襌寺湖 
    - 飯店名稱：湖上苑溫泉旅館 (ホテル湖上苑)
    - 地圖位置：[連結](https://goo.gl/maps/iGhtmvnyFLyPdYpy5)
-   - 介紹：[連結](xxx)
+   - 介紹-1：[連結](https://kenalice.tw/blog/post/41881426)
+   - 介紹-2：[連結](https://aura.tw/2016-07-18-459/)
  - 27日星期五 - 輕井澤-輕井澤火車站
    - 飯店名稱：輕井澤王子大飯店西館 (軽井沢プリンスホテル ウエスト)
    - 地圖位置：[連結](https://goo.gl/maps/y5kig9hWXgym63DF7)
-   - 介紹：[連結](xxx)
+   - 介紹：[連結](https://cline1413.com.tw/karuizawa-prince-hotel-west/)
  - 28日星期六 - 輕井澤-輕井澤火車站
    - 飯店名稱：輕井澤王子大飯店西館-小木屋 (軽井沢プリンスホテル ウエスト)
    - 地圖位置：[連結](https://goo.gl/maps/oEUjxE8aM92BoQNm7)
-   - 介紹：[連結](xxx)
+   - 介紹-1：[連結](https://thinngslife.com/karuizawa-prince-west/)
+   - 介紹-2：[連結](https://lovetogo.tw/201802-tohoku/hotel-karuizawa-west/index.php)
   <p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/prince_%20cottage.png">
 </p>
