@@ -64,9 +64,15 @@
 **票券**
 ------
 - ------
+**成田機場 - 到 - 銚子**
+- ------
+ - 自費路線：[查詢網站](https://world.jorudan.co.jp/mln/zh-tw/)
+ - 約1,440日元/1人
+- ------
 **弧廻手形(一日乗車券)**
 - ------
  - [連結-1-官網](https://www.choshi-dentetsu.jp)
+ - 約700日元/1人
  - [連結-2](https://pass.ryde-go.com/products/G768VWYS4RQN)
  - [連結-3](https://journey.tw/choshi-dentetsu/)
 - ------
@@ -105,9 +111,6 @@
 - ------
  - [地鐵圖](https://www.tokyometro.jp/station/pdf/202305/202305_number_tcn.pdf)
  - 約800日元/1人
-
-
-
 
 
 **其它資訊**
