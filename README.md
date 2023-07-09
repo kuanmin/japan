@@ -80,6 +80,7 @@
  - [連結-3](https://journey.tw/choshi-dentetsu/)
 
 **銚子 - 到 - 品川**
+-------
  - 自費路線：[查詢網站](https://world.jorudan.co.jp/mln/zh-tw/)
  - 約4,200日元/1人
 
