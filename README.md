@@ -1,48 +1,45 @@
 日本行
 ====
 
-**行程 - 住宿(都訂好飯店了)**
+**住宿**
 -------
  - 21日星期六 - 千葉縣-銚子市-犬吠埼
    - 飯店名稱：銚子犬吠埼的溫泉旅館—太陽之里 (Hotel & Spa Tsukimi)
    - 地圖位置：[連結](https://goo.gl/maps/y8pCgF1AGgbhUnpB7)
+   - 介紹：[連結](xxx)
  - 22日星期日 - 潢兵-港區未來站
    - 飯店名稱：橫濱洲際渡假飯店
    - 地圖位置：[連結](https://goo.gl/maps/iTogSqvUmexrWHhZ9)
+   - 介紹：[連結](xxx)
  - 23日星期一 - 東京-池袋
    - 飯店名稱：池袋溫泉多美迎飯店 (Dormy Inn Ikebukuro Natural Hot Spring)
    - 地圖位置：[連結](https://goo.gl/maps/4W72dKvNW5Kpuad69)
+   - 介紹：[連結](xxx)
  - 24日星期二 - 日光-日光車站
    - 飯店名稱：日光車站旅館二號館 (日光ステーションホテルⅡ番館)
    - 地圖位置：[連結]([xxx](https://goo.gl/maps/zd7VEo4AzvFs1pqb7))
+   - 介紹：[連結](xxx)
  - 25日星期三 - 日光-鬼怒川
    - 飯店名稱：Asaya飯店
    - 地圖位置：[連結](https://goo.gl/maps/B4sqVbP2AecJ6y886)
+   - 介紹：[連結](xxx)
  - 26日星期四 - 日光-中襌寺湖 
    - 飯店名稱：湖上苑溫泉旅館 (ホテル湖上苑)
    - 地圖位置：[連結](https://goo.gl/maps/iGhtmvnyFLyPdYpy5)
+   - 介紹：[連結](xxx)
  - 27日星期五 - 輕井澤-輕井澤火車站
    - 飯店名稱：輕井澤王子大飯店西館 (軽井沢プリンスホテル ウエスト)
    - 地圖位置：[連結](https://goo.gl/maps/y5kig9hWXgym63DF7)
+   - 介紹：[連結](xxx)
  - 28日星期六 - 輕井澤-輕井澤火車站
    - 飯店名稱：輕井澤王子大飯店西館-小木屋 (軽井沢プリンスホテル ウエスト)
    - 地圖位置：[連結](https://goo.gl/maps/oEUjxE8aM92BoQNm7)
+   - 介紹：[連結](xxx)
   <p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/prince_%20cottage.png">
 </p>
 
-**票券
 
-**行程 - 住宿(都訂好飯店了)**
--------
- - 21日星期六 - 銚子/犬吠 (兩者皆可)
- - 22日星期日 - 潢兵 (潢兵站) 
- - 23日星期一 - 東京 (銀座區)
- - 24日星期二 - 鬼怒川 (日光區域)
- - 25日星期三 - 中禪寺 (日光區域) 
- - 26日星期四 - 下今市 (日光區域)
- - 27日星期五 - 草津 (輕井澤區域) 
- - 28日星期六 - (中)輕井澤站附近 
 
 
 **銚子/犬吠 - 飯店**
