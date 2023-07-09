@@ -74,6 +74,11 @@
    - [連結-3](https://journey.tw/choshi-dentetsu/)
 
 
+
+**橫濱一日券 (横浜1DAYきっぷ)**
+-------
+   - [連結-1-官網](https://www.keikyu.co.jp/visit/otoku/otoku_yokohama.html)
+   - 
 **其它資訊**
 ====
 **銚子/犬吠 - 飯店**
