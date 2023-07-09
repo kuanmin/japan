@@ -1,7 +1,7 @@
 日本行
 ====
 **行程**
-- -----
+------
 |  日期  | 星期  |  玩耍城市  | 票券  | 住宿城市  | 飯店  | 備註  |
 | :--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 10月21日 | 星期六  |  -  | (自費)  | 千葉縣-銚子市-犬吠埼  | 銚子犬吠埼的溫泉旅館—太陽之里  | -  |
@@ -16,7 +16,7 @@
 
 
 **飯店**
-- -----
+------
  - 21日星期六 - 千葉縣-銚子市-犬吠埼
    - 飯店名稱：銚子犬吠埼的溫泉旅館—太陽之里 (Hotel & Spa Tsukimi)
    - 地圖位置：[連結](https://goo.gl/maps/y8pCgF1AGgbhUnpB7)
@@ -62,25 +62,25 @@
 
 
 **票券**
-- -----
+------
 **弧廻手形(一日乗車券)**
--------
+- ------
  - [連結-1-官網](https://www.choshi-dentetsu.jp)
  - [連結-2](https://pass.ryde-go.com/products/G768VWYS4RQN)
  - [連結-3](https://journey.tw/choshi-dentetsu/)
 
 **補充：東京&橫濱-交通票券**
--------
-   - [連結-1](https://www.funtime.com.tw/blog/funtime/【東京】省錢交通票券懶人包)
-   - [連結-2](https://tokyo.letsgojp.com/archives/521497/#a11)
+- ------
+ - [連結-1](https://www.funtime.com.tw/blog/funtime/【東京】省錢交通票券懶人包)
+ - [連結-2](https://tokyo.letsgojp.com/archives/521497/#a11)
 
 **銚子 - 到 - 品川**
--------
+- ------
  - 自費路線：[查詢網站](https://world.jorudan.co.jp/mln/zh-tw/)
  - 約4,200日元/1人
 
 **橫濱一日券 (横浜1DAYきっぷ)**
--------
+- ------
    - [連結-1-官網](https://www.keikyu.co.jp/visit/otoku/otoku_yokohama.html)
    - 約1,120日元/1人
    - 從京急任何一站可往返橫濱一次(我們會從「品川」撘)、加上
@@ -94,13 +94,14 @@
 </p>
 
 **品川 - 到 - 泉岳寺**
+- ------
  - 自費路線：[查詢網站](https://world.jorudan.co.jp/mln/zh-tw/)
  - 品川 - 到 - 泉岳寺，約140日元/1人
  - 我們直接從「橫濱」坐到「泉岳寺」，出站再補票
 
 **東京地鐵24小時券 (Tokyo Subway Ticket)**
  - [地鐵圖](https://www.tokyometro.jp/station/pdf/202305/202305_number_tcn.pdf)
- - 大人800日元/1人
+ - 約800日元/1人
 
 
 
