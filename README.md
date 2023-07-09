@@ -74,9 +74,14 @@
    - [連結-3](https://journey.tw/choshi-dentetsu/)
 
 **弧廻手形(一日乗車券)**
+-------
  - [連結-1-官網](https://www.choshi-dentetsu.jp)
  - [連結-2](https://pass.ryde-go.com/products/G768VWYS4RQN)
  - [連結-3](https://journey.tw/choshi-dentetsu/)
+
+**銚子 - 到 - 品川**
+ - 自費路線：[查詢網站](https://world.jorudan.co.jp/mln/zh-tw/)
+ - 約4,200日元/1人
 
 **橫濱一日券 (横浜1DAYきっぷ)**
 -------
@@ -90,6 +95,16 @@
    - <p align="center">
   <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/yokohama_one_day.png">
 </p>
+
+**品川 - 到 - 泉岳寺**
+ - 自費路線：[查詢網站](https://world.jorudan.co.jp/mln/zh-tw/)
+ - 品川 - 到 - 泉岳寺，約140日元/1人
+ - 我們直接從「橫濱」坐到「泉岳寺」，出站再補票
+
+**東京地鐵24小時券 (Tokyo Subway Ticket)**
+ - [地鐵圖](https://www.tokyometro.jp/station/pdf/202305/202305_number_tcn.pdf)
+ - 大人1人800日元
+
 **其它資訊**
 ====
 **銚子/犬吠 - 飯店**
@@ -102,6 +117,10 @@
    - 官方網站：[連結](http://www.inubou.co.jp/lg/lg_cn/)
    - 網路介紹：[連結](https://www.facebook.com/photo/?fbid=343200793171554&set=ecnf.100063634477856&locale=ms_MY)
    - 谷歌地圖：[連結](https://goo.gl/maps/rWz7BSPtkGcFGJVFA?coh=178572&entry=tt)
+
+
+
+
 
 **潢浜 - 飯店**
 -------
