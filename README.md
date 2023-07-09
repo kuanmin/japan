@@ -79,6 +79,9 @@
 -------
    - [連結-1-官網](https://www.keikyu.co.jp/visit/otoku/otoku_yokohama.html)
    - 
+   - <p align="center">
+  <img width="80%" height="80%" src="https://github.com/kuanmin/japan/blob/main/yokohama_one_day.png">
+</p>
 **其它資訊**
 ====
 **銚子/犬吠 - 飯店**
