@@ -68,12 +68,15 @@
    - [連結-2](https://tokyo.letsgojp.com/archives/521497/#a11)
  - 東京 & 橫濱 交通票券
    - 
- - <弧廻手形（一日乗車券）>(大人一人700日元)
+ - <弧廻手形(一日乗車券)>(大人一人700日元)
    - [連結-1-官網](https://www.choshi-dentetsu.jp)
    - [連結-2](https://pass.ryde-go.com/products/G768VWYS4RQN)
    - [連結-3](https://journey.tw/choshi-dentetsu/)
 
-
+**弧廻手形(一日乗車券)**
+ - [連結-1-官網](https://www.choshi-dentetsu.jp)
+ - [連結-2](https://pass.ryde-go.com/products/G768VWYS4RQN)
+ - [連結-3](https://journey.tw/choshi-dentetsu/)
 
 **橫濱一日券 (横浜1DAYきっぷ)**
 -------
