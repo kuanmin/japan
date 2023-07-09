@@ -3,13 +3,13 @@
 
 **行程 - 住宿(都訂好飯店了)**
 -------
- - 21日星期六 - 銚子/犬吠 (兩者皆可)
+ - 21日星期六 - 千葉縣-銚子市-犬吠埼
    - 飯店名稱：銚子犬吠埼的溫泉旅館—太陽之里 (Hotel & Spa Tsukimi)
    - 地圖位置：[連結](https://goo.gl/maps/y8pCgF1AGgbhUnpB7)
- - 22日星期日 - 潢兵
+ - 22日星期日 - 潢兵-港區未來站
    - 飯店名稱：橫濱洲際渡假飯店
    - 地圖位置：[連結](https://goo.gl/maps/iTogSqvUmexrWHhZ9)
- - 23日星期一 - 東京池袋
+ - 23日星期一 - 東京-池袋
    - 飯店名稱：池袋溫泉多美迎飯店 (Dormy Inn Ikebukuro Natural Hot Spring)
    - 地圖位置：[連結](https://goo.gl/maps/4W72dKvNW5Kpuad69)
  - 24日星期二 - 日光-日光車站
